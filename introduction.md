@@ -5,3 +5,4 @@ I love Ruby and JavaScript!
 * HTML
 * CSS
 * JavaScript
+* Killing history using git rebase
